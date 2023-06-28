@@ -1,0 +1,111 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Como aumentar sua Geração de Leads feat. Traktor - V1",
+      "link": "https://www.youtube.com/watch?v=yju8RTdhHQ0",
+      "descricao": "Descrição do vídeo 1",
+      "categorias": ["Agências", "Geração de Leads"],
+      "thumbnail": "/thumbnail.png",
+      "relevancia": 2,
+      "dataPublicacao": "28/01/2023"
+    },
+    {
+      "id": 2,
+      "titulo": "Como aumentar sua Geração de Leads feat. Traktor - V2",
+      "link": "https://www.youtube.com/watch?v=VZoPJxdu20c",
+      "descricao": "Descrição do vídeo 2",
+      "categorias": ["Chatbot"],
+      "thumbnail": "/thumbnail.png",
+      "relevancia": 4,
+      "dataPublicacao": "28/04/2023"
+    },
+    {
+      "id": 3,
+      "titulo": "Como aumentar sua Geração de Leads feat. Traktor - V3",
+      "link": "https://www.youtube.com/watch?v=UYg36xAU_vU",
+      "descricao": "Descrição do vídeo 3",
+      "categorias": ["Marketing Digital"],
+      "thumbnail": "/thumbnail.png",
+      "relevancia": 5,
+      "dataPublicacao": "22/06/2023"
+    },
+    {
+      "id": 4,
+      "titulo": "Como aumentar sua Geração de Leads feat. Traktor - V4",
+      "link": "https://www.youtube.com/watch?v=GZyDCW-F69I",
+      "descricao": "Descrição do vídeo 4",
+      "categorias": ["Mídia Paga", "Marketing Digital"],
+      "thumbnail": "/thumbnail.png",
+      "relevancia": 2,
+      "dataPublicacao": "28/06/2023"
+    },
+    {
+      "id": 5,
+      "titulo": "Como aumentar sua Geração de Leads feat. Traktor - V5",
+      "link": "https://www.youtube.com/watch?v=GZyDCW-F69I",
+      "descricao": "Descrição do vídeo 4",
+      "categorias": ["Mídia Paga"],
+      "thumbnail": "/thumbnail.png",
+      "relevancia": 1,
+      "dataPublicacao": "27/06/2023"
+    },
+    {
+      "id": 6,
+      "titulo": "Como aumentar sua Geração de Leads feat. Traktor - V6",
+      "link": "https://www.youtube.com/watch?v=GZyDCW-F69I",
+      "descricao": "Descrição do vídeo 4",
+      "categorias": ["Marketing Digital"],
+      "thumbnail": "/thumbnail.png",
+      "relevancia": 3,
+      "dataPublicacao": "18/06/2023"
+    },
+    {
+      "id": 7,
+      "titulo": "Como aumentar sua Geração de Leads feat. Traktor - V7",
+      "link": "https://www.youtube.com/watch?v=GZyDCW-F69I",
+      "descricao": "Descrição do vídeo 4",
+      "categorias": ["Marketing Digital","Agências"],
+      "thumbnail": "/thumbnail.png",
+      "relevancia": 2,
+      "dataPublicacao": "28/05/2023"
+    },
+    {
+      "id": 8,
+      "titulo": "Como aumentar sua Geração de Leads feat. Traktor - V8",
+      "link": "https://www.youtube.com/watch?v=GZyDCW-F69I",
+      "descricao": "Descrição do vídeo 4",
+      "categorias": ["Mídia Paga","Geração de Leads"],
+      "thumbnail": "/thumbnail.png",
+      "relevancia": 4,
+      "dataPublicacao": "28/02/2023"
+    },
+    {
+      "id": 9,
+      "titulo": "Como aumentar sua Geração de Leads feat. Traktor - V9",
+      "link": "https://www.youtube.com/watch?v=GZyDCW-F69I",
+      "descricao": "Descrição do vídeo 4",
+      "categorias": ["Mídia Paga","Geração de Leads","Marketing Digital"],
+      "thumbnail": "/thumbnail.png",
+      "relevancia": 5,
+      "dataPublicacao": "08/05/2023"
+    },
+    {
+      "id": 10,
+      "titulo": "Como aumentar sua Geração de Leads feat. Traktor - V10",
+      "link": "https://www.youtube.com/watch?v=GZyDCW-F69I",
+      "descricao": "Descrição do vídeo 4",
+      "categorias": ["Mídia Paga","Geração de Leads","Agências"],
+      "thumbnail": "/thumbnail.png",
+      "relevancia": 4,
+      "dataPublicacao": "21/06/2023"
+    }
+  ],
+  "categoriaVideos": [
+    "Mídia Paga",
+    "Marketing Digital",
+    "Chatbot",
+    "Agências",
+    "Geração de Leads"
+  ]
+}
