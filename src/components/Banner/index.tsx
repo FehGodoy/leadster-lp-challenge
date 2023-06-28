@@ -1,5 +1,7 @@
 import React from "react";
 import * as Styled from "./styles";
+import logoAndTitle from '../../assets/asset-header.png'
+import Image from "next/image";
 
 const Banner = () => {
   return (
@@ -12,7 +14,13 @@ const Banner = () => {
             </div>
             <div className="titulo">
               <h2>Menos Conversinha,</h2> <br />
+              <div className="titleAndLogo">
               <h1>Mais Conversão</h1>
+              <Image
+              src={logoAndTitle}
+              alt='Logo Leadster'
+              />
+              </div>              
             </div>
             <div className="subtitulo">
               <h2>

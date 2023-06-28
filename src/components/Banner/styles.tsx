@@ -47,10 +47,24 @@ export const Banner = styled.section`
             font-size: 45px;
             color: #1c3c50;
           }
-          h1 {
-            font-size: 80px;
-            color: #1f76f0;
-            line-height: 2rem;
+          .titleAndLogo {
+            width: fit-content;
+            margin: 0 auto;
+            position: relative;
+            h1 {
+              font-size: 80px;
+              color: #1f76f0;
+              line-height: 2rem;
+            }
+            img {
+              position: absolute;
+              top: -20px;
+              right: -20px;
+              @media (max-width:991px){
+    top: -11px;
+    right: -23px;
+              }
+            }
           }
         }
         .subtitulo {
@@ -82,24 +96,23 @@ export const Banner = styled.section`
       }
     }
     @media (max-width: 991px) {
-      .col-100-gy{
-        padding: 0px 10px ;
+      .col-100-gy {
+        padding: 0px 10px;
         .titulo {
-        h1 {
-          font-size: 55px!important;
-          line-height: 3rem!important;
-          margin-top: -15px;
+          h1 {
+            font-size: 55px !important;
+            line-height: 3rem !important;
+            margin-top: -15px;
+          }
         }
-      }
-      .subtitulo {
-        h2 {
-          &::before {
-            width: 93%;
+        .subtitulo {
+          h2 {
+            &::before {
+              width: 93%;
+            }
           }
         }
       }
-      }
-
     }
   }
 `;
